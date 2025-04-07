@@ -9,4 +9,3 @@ Receitas de medicamentos armazenadas para visuzalição em qualquer momento.
 Área de destaque para dúvidas dos usuários em questões do sistema e suporte técnico. 
 Um sistema confiável, no qual seus usuários podem confiar em dispor seus dados pessoais.
 
-Trabalho realizado por: Ana Carolina e Luisa.
